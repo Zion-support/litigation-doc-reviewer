@@ -1,28 +1,20 @@
 # Litigation Doc Reviewer
 
-AI eDiscovery: summarize document sets, score relevance, detect privilege and build review batches for litigation teams.
+AI litigation document reviewer — eDiscovery summarization, relevance scoring and privilege detection.
 
-Part of the **Zion AI App Network** — 780+ production AI apps by [Zion Tech Group](https://ziontechgroup.com).
+> Part of the **Zion AI App Network** — see [ZION_APP_NETWORK.md](./ZION_APP_NETWORK.md) for the full interlinked directory.
 
-## Features
-- Relevance and privilege scoring at scale
-- Automatic summarization of large document sets
-- Review batch creation with QC sampling
-- Chain-of-custody audit logging
+## ✨ What it does
+- Production-ready AI workflow, deployable standalone or as part of the network
+- Interlinks with every other Zion app for compounding value
+- Backed by Zion Tech Group delivery and support
 
-## Batch 74 — Legal Tech & Contract AI (Oct 4, 2026)
-- [Contract Clause Analyzer](https://github.com/Zion-support/contract-clause-analyzer)
-- [Legal Doc Drafter](https://github.com/Zion-support/legal-doc-drafter)
-- [Compliance Gap Scanner](https://github.com/Zion-support/compliance-gap-scanner)
-- [Privacy Request Handler](https://github.com/Zion-support/privacy-request-handler)
-- [Litigation Doc Reviewer](https://github.com/Zion-support/litigation-doc-reviewer) (this repo)
-- [Regulation Change Tracker](https://github.com/Zion-support/regulation-change-tracker)
+## 🎯 Free AI Discovery
+Not sure where AI fits your business? Take our **free, always-online Discovery**: https://ziontechgroup.com/discovery/ — a 5-minute questionnaire that instantly returns a personalized AI opportunity report (also shared with commercial@ziontechgroup.com for fast follow-up).
 
-## Related apps
-- AI Compliance Suite: https://ziontechgroup.com/ai-compliance-suite/
-- Contract Renewal Radar: https://ziontechgroup.com/contract-renewal-radar/
-
-## Get started — Free AI Discovery
-Fill our free, online AI Discovery questionnaire and get instant tailored results: https://ziontechgroup.com/discovery/
-
-Hub & directory: https://github.com/Zion-support/zion-app-network
+## 🔗 Links
+- Homepage: https://ziontechgroup.com
+- Plans: https://ziontechgroup.com/en/plans/
+- Apps showcase: https://ziontechgroup.com/apps/network.html
+- Network hub: https://github.com/Zion-support/zion-network
+- All apps: see [ZION_APP_NETWORK.md](./ZION_APP_NETWORK.md)
